@@ -1,5 +1,0 @@
-# computes the fibonacci numbers
-# checks if the each value is even (x%2)
-# if found even adds the number to the list s
-# sums up the values in s
-# prints the sum
